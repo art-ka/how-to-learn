@@ -5,7 +5,6 @@
 @import url(./__columns/footer__columns.css);
 @import url(./__social-icon/footer__social-icon.css);
 @import url(./__social-link/footer__social-link.css);
-@import url(../logo/logo.css);
 
 .footer {
     background-color: #1f1f1f;
