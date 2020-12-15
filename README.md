@@ -1,4 +1,4 @@
-# Website «How to learn» 🚀 | [На русском] (#anchortext)
+# Website «How to learn» 🚀 | [На русском](#anchortext)
 
 The site provides important learning tips. 
 
