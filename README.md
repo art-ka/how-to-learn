@@ -1,9 +1,17 @@
-# how-to-learn
-# Website «How to learn» 🚀 
+# Website «How to learn» 🚀 | [На русском] (#anchortext)
 
 The site provides important learning tips. 
+
 **Used**: animation, grids, flex, frames.
+
 **Plans**: adaptive code.
+
+**Link**: 
+
+* [Website on Github Pages](https://art-ka.github.io/how-to-learn/)
+
+
+# <a name="anchortext" /> Сайт «Как учиться»
 
 **Использованы**: анимация, гриды, флексы, фреймы.  
 
